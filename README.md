@@ -53,4 +53,9 @@ Once the basics have been understood, it is important to comprenhend the git flo
 
 - Typical working flow
 - Bad Practices
+  - Not pulling/fetching frequently
+  - Working always on the same branch
 - Good Practices
+  - Brief explanation on commit mesasges
+  - Review own changes after push
+  - Communication with colleagues working on the same branch
